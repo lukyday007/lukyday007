@@ -1,5 +1,5 @@
 <div align="center">
-![image](./greeting.png)
+  <img src="./greeting.png" alt="Greeting Image">
 </div>
 
 작은 노력들이 모여 큰 도약을 이루어낸다고 믿습니다. <br>
