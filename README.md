@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="margin: 0;">이다율</h2>  
+  ![image](./greeting.png)
 </div>
 
 작은 노력들이 모여 큰 도약을 이루어낸다고 믿습니다. <br>
