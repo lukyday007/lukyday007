@@ -1,5 +1,5 @@
 <div style="center">
-  # 이다율  
+  <h2>이다율</h2>  
 </div>
 
 
