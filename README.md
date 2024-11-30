@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./greeting.png" alt="Greeting Image">
+  <img src="./greeting.png" alt="Greeting Image" width="400">
 </div>
 
 작은 노력들이 모여 큰 도약을 이루어낸다고 믿습니다. <br>
