@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center;">
   <h2 style="margin: 0;">이다율</h2>  
 </div>
 
