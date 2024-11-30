@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./greeting.png" alt="Greeting Image" width="400">
+  <img src="./greeting.png" alt="Greeting Image" width="500">
 </div>
 <br>
 <div align="center">
@@ -11,6 +11,9 @@
   <p>협업을 통해 더 나은 결과를 만들어 가고자 노력하겠습니다.</p>   
 </div>
 <br>
+<br>
+<h2> SkILLSETS <img src="./skill.png" style="width: 30px; height: 30px; vertical-align: middle;"> </h2>
+
 > Quantum Jump : 단기간에 비약적으로 실적이 호전되는 현상!! 
 
 ![image](./spaceship.jpg)
