@@ -2,7 +2,7 @@
   <img src="./greeting.png" alt="Greeting Image" width="400">
 </div>
 <br>
-<div>
+<div align="center">
   <p>
     작은 노력들이 모여 큰 도약을 이루어낸다고 믿습니다. 
     <img src="./space.png" alt="Space Icon" style="width: 30px; height: 30px; vertical-align: middle;">
