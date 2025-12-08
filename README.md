@@ -38,11 +38,10 @@
 <br>
 <br>
 
-> Quantum Jump : 단기간에 비약적으로 실적이 호전되는 현상!! 
-
-<img src="./spaceship.jpg" width="500" height="auto" alt="Quantum Jump">
-![image](./spaceship.jpg)
-
+<div align="center">
+  > Quantum Jump : 단기간에 비약적으로 실적이 호전되는 현상!! 
+  <img src="./spaceship.jpg" width="500" height="auto" alt="Quantum Jump">
+</div>
 
 
 
