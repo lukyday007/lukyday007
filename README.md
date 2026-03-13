@@ -10,7 +10,7 @@
   <p>안정적인 서비스 운영을 위한 대규모 트래픽 처리 기술에 대해 깊이있게 탐구하고 있습니다.</p>  
   <p>
     <a href="https://lukyday-blog.vercel.app/" target="_blank" style="text-decoration: none; color: #0366d6; font-weight: bold;">
-      기술 블로그로 바로가기 ->
+      Dayul's Tech Blog 바로가기 ➜
     </a>
   </p>
 </div>
