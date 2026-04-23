@@ -3,15 +3,12 @@
 </div>
 <br>
 <div align="center">
-  <p>
-    작은 노력들이 모여 큰 도약 (Quantum Jump) 을 이루어낸다고 믿습니다. 
-    <img src="./space.png" alt="Space Icon" style="width: 40px; height: 40px; vertical-align: middle;">
-  </p>
   
   <p>경영학에서 배운 트레이드오프적 사고를 기술 선택에 그대로 적용합니다.</p> 
   <p>동시성과 정합성, 성능과 비용 사이에서 최선의 균형을 찾는 것이 개발이나 경영이나 본질적으로 같다고 생각합니다.</p> 
   <p>메인과 비즈니스 요건을 빠르게 이해하고, 사용자 경험을 최대화하는 기술적 선택을 할 수 있는 백엔드 엔지니어입니다.</p>  
-  
+
+  <p>
     <a href="https://lukyday-blog.vercel.app/" target="_blank" style="text-decoration: none; color: #0366d6; font-weight: bold;">
       Dayul's Tech Blog 바로가기 ➜
     </a>
