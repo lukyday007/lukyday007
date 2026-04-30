@@ -13,14 +13,14 @@
       Dayul's Tech Blog 바로가기 ➜
     </a>
   </p>
+
+  ## Contact
+✉️ dy007lukyday@gmail.com
 </div>
 <br>
 <br>
 
 <div align="center">
-
-## Contact
-✉️ dy007lukyday@gmail.com
 
 # ✨ Tech Stack ✨
 
