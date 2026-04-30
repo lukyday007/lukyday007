@@ -19,6 +19,9 @@
 
 <div align="center">
 
+## Contact
+✉️ dy007lukyday@gmail.com
+
 # ✨ Tech Stack ✨
 
 <br />
