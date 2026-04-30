@@ -14,8 +14,9 @@
     </a>
   </p>
 
-  ## Contact
+Contact
 ✉️ dy007lukyday@gmail.com
+
 </div>
 <br>
 <br>
